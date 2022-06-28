@@ -1,0 +1,185 @@
+https://code.visualstudio.com/ > Install
+https://git-scm.com/downloads > Install (to Intercat with github)
+https://github.com/  > create Account (Where upload the code)
+https://nodejs.org/en/ > Install (Use to Run JavaAcript Code)
+https://github.com/Aakashdeveloper > Follow
+
+///////////Extensions VS Code //////
+> vscode-icons (icons fo file)
+> TabNine (Proivde Suggestion while writting code)
+> Spell Check (Check the spelling)
+> GitHistory
+> Git Lens
+
+HTML/HTML5       >>>> Raw Structure
+CSS/css3         >>>> Designing (look & Feel)
+BootStarp3/4/5   >>>> Responsive (Fit on every screen)
+JavaScript       >>>> Dynamic
+
+
+> DataTypes
+> variable
+> alert console prompt
+> Operations
+> String literals
+> Math
+> String Operations
+> let, const
+> localStorage
+> sessionStorage
+> cookies
+> condition
+> if else
+> ternary Operations
+> Date
+> switch
+> array
+> loops
+> Functions
+> Rest
+> spread
+> Closures
+> Hoisting
+> Es6
+    > maps,filter
+> regex
+> destructuring
+> object 
+> JSON
+> Es6
+    > Transpile
+    > import export
+> package.JSON
+> npm
+> this
+> Es6
+    > classes
+> Prototypes
+> DoM
+> Calc
+> Form validation
+> Event
+> dummyAPi jsonserver 
+> dark/light mode
+> currenyConvertor
+> promis
+> async await
+> screen
+> set interval
+> set timeout
+> debouncing
+> Progress bar
+> Geolocation
+> Dynamic DropDown
+> Call/Apply
+> sets
+> Basic Jquery
+> Weather application
+> ajax
+> DataTables
+> fabonicci
+> factorial
+> palindrome
+> tictactogame
+> github 
+
+///////
+DOCTYPE > document type
+html > main tag of page
+head > Contains all the link (Css, JavaScript)
+body > All the content of the page that is visible to user
+
+///////
+BlockLevel
+> Always Start from new Line
+> It will cover the whole width of the screen
+> p div section
+
+Inline Element
+> Start in the same line where first ends
+> only cover the required with
+> span a img
+
+
+href = hyper reffernce
+src = source
+rel = relation
+
+
+>>>>>>>>>>>>Task<<<<<<<<<<<<<
+Profile Website
+
+Your name
+Your Image
+Something about you
+Skills
+Map
+
+
+Dear Students please pay the fee for ________(Course name)_____ (time) by Mr. __________ Fee  Rs. _______
+
+Bank Details 
+Name: Naresh i Technologies
+A/C No. 50200022639833     
+Bank: HDFC
+A/C Type: Current Account
+IFSC Code: HDFC0001627
+MICR Code: 500240035
+Branch Code: 001627
+Branch:  Ameerpet
+
+Note: If you want to use Phonepe or Google Pay then follow the below steps.
+
+You can find the option Bank Transfer in Phonepe and Google pay. There you can enter our bank account number and you can transfer the amount.  Please mention your Name on the receipt and send a email once the payment is done to support@nareshit.com.
+  
+For any Queries, You can can Call us on +91-8179191999 or email us to support@nareshit.com 
+
+Please share your feedback to  Admin
+
+Thanks and Regards 
+Naresh
+Mobile:8919944069
+
+
+
+Inline
+StyleTag
+styleSheet
+
+Inline > StyleTag >styleSheet
+
+inline
+{
+    color:red,
+    font-size:40px;
+}
+
+styleTag
+{
+    color:orange,
+    text-align:center;
+    font-weight:bold;
+}
+
+stylesheet
+{
+    font-size:30px;
+    border:2px solid red
+}
+
+{
+   color:red;
+   font-size:40px;
+   font-weight:bold;
+   text-align:center;
+   border:2px solid red;
+}
+
+//////
+Tag Name  > h1 , p , div
+className 
+> to target multiple Element with same property
+> .
+Id
+> to target particular element
+> #
