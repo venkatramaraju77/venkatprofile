@@ -10,7 +10,6 @@ h1{
     width:21%;
     float: left;
     margin-left:3%;
-    overflow: scroll;
     color:white
 }
 .bluegray{
@@ -32,4 +31,8 @@ h1{
 }
 .blue{
     background:#3676a2
+}
+
+.scrolling{
+    height:160px; overflow-y: scroll;
 }
